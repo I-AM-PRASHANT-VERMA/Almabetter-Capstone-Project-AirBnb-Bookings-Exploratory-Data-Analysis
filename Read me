@@ -1,0 +1,39 @@
+# Airbnb Data Analysis Project
+
+This repository contains the code and documentation for an in-depth analysis of Airbnb listings in New York City. The project provides valuable insights and recommendations for Airbnb hosts to optimize their property listings and hosting performance. 
+
+## Project Highlights
+
+- **Neighborhood Insights:** Discover the most popular neighborhood groups in New York City to focus your resources effectively.
+
+- **Pricing Strategies:** Maximize revenue by setting competitive prices aligned with market trends.
+
+- **Review Management:** Enhance your hosting performance by understanding guest preferences and the most reviewed room types.
+
+- **Occupancy Optimization:** Identify areas with high host saturation to stand out in the market.
+
+- **Minimum Nights Stay Analysis:** Set flexible policies to attract a wide range of travelers.
+
+- **Market Research:** Stay competitive by gauging your pricing competitiveness and diversifying property offerings.
+
+- **Dynamic Pricing Tools:** Explore dynamic pricing options to maximize occupancy and revenue.
+
+## Repository Contents
+
+- **Jupyter Notebooks:** Detailed code and analysis for each aspect of the project.
+
+- **Data:** The Airbnb dataset used for the analysis.
+
+- **Visualizations:** Visual aids to better understand the data.
+
+- **README:** This file providing an overview of the project.
+
+## Getting Started
+
+1. Clone the repository to your local machine.
+2. Explore the Jupyter notebooks to access in-depth insights and recommendations.
+3. Feel free to use the code and insights to enhance your Airbnb hosting performance.
+
+## Project Contributors
+
+- Prashant Verma
